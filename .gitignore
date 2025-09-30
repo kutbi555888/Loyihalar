@@ -1,0 +1,65 @@
+# ----------------
+# Python umumiy
+# ----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# ----------------
+# Virtual environment
+# ----------------
+venv/
+env/
+ENV/
+environment_folder/
+
+# ----------------
+# Jupyter Notebook
+# ----------------
+.ipynb_checkpoints
+
+# ----------------
+# Ma’lumot fayllari
+# ----------------
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.json
+
+# ----------------
+# ML model fayllari
+# ----------------
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.ckpt
+
+# ----------------
+# Kompilyatsiya fayllari
+# ----------------
+*.dll
+*.so
+*.dylib
+*.exe
+
+# ----------------
+# Kesh va vaqtinchalik fayllar
+# ----------------
+*.cache/
+*.pytest_cache/
+*.mypy_cache/
+*.DS_Store
+
+# ----------------
+# IDE konfiguratsiyalari
+# ----------------
+.vscode/
+.idea/
+*.swp
